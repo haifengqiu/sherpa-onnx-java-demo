@@ -10,5 +10,10 @@
 ## windows环境替换系统内置的onnxruntime.dll
 如果是windows环境，请将系统盘里system32目录下的onnxruntime.dll替换为项目里sherpa-onnx/libs下的同名文件。
 
+## sherpa-onnx目录截图
+
+![image](https://github.com/user-attachments/assets/f9dd0c1d-e805-4b86-a68e-e4dca31cc48e)
+
+
 
 
